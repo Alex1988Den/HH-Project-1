@@ -1,7 +1,7 @@
 Проект "HeadHunter: Оценка уровня заработной платы соискателей"
 
-![HeadHunter Logo](wikimedia.org/wikipedia/c[https://upload.ommons/thumb/f/f6/HH_logo_2018.svg/640px-HH_logo_2018.svg.png](https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:HeadHunter_logo.png)
-Описание проекта
+![HeadHunter Logo](wikimedia.org/wikipedia/c[https://upload.ommons/thumb/f/f6/HH_logo_2018.svg/640px-HH_logo_2018.svg.png](https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:HeadHunter_logo.png))
+=Описание проекта
 
 Проект "HeadHunter: Оценка уровня заработной платы соискателей" представляет собой исследование данных с сайта поиска вакансий hh.ru, с целью построения модели, которая будет автоматически определять примерный уровень заработной платы соискателей, исходя из информации, которую они указывают о себе в резюме.
 
